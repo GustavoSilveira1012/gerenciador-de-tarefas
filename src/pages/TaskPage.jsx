@@ -1,6 +1,5 @@
 import { ChevronLeftIcon } from "lucide-react";
 import { useNavigate, useSearchParams } from "react-router-dom";
-import taskPage from "./pages/taskPage.jsx"
 
 
 function TaskPage() {
